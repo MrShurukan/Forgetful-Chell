@@ -1,0 +1,11 @@
+Model Information:
+* title:	Aperture Science Handheld Portal Device
+* source:	https://sketchfab.com/3d-models/aperture-science-handheld-portal-device-17910cb1424340ee992c39e3769844b9
+* author:	ArbitraryCanary (https://sketchfab.com/ArbitraryCanary)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Aperture Science Handheld Portal Device" (https://sketchfab.com/3d-models/aperture-science-handheld-portal-device-17910cb1424340ee992c39e3769844b9) by ArbitraryCanary (https://sketchfab.com/ArbitraryCanary) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
